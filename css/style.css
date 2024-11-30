@@ -1,0 +1,54 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} */
+
+body {
+    background-color: rgb(242, 242, 242);
+}
+
+p {
+    font-family: "work sans";
+    font-weight: 300;
+    padding-bottom: 50px;
+    line-height: 2;
+}
+
+.child {
+
+    width: 20%;
+    float: left;
+    color: white;
+    font-weight: bold;
+    padding: 30px;
+    padding-bottom: 50px;
+}
+
+h2 {
+    padding: 5px;
+    font-family: "Bebas Neue", serif;
+    font-weight: 500;
+    font-size: xx-large;
+}
+
+.parent {
+
+    margin-left: 200px;
+    margin-top: 200px;
+    overflow: hidden;
+
+
+
+}
+
+button {
+    border-radius: 20px;
+    border: none;
+    padding: 15px;
+    width: 150px;
+    font-family: "work sans";
+    font-weight: 500;
+
+
+}
